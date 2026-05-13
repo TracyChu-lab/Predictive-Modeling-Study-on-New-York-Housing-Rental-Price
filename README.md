@@ -26,23 +26,10 @@ one ZIP code in one month
 nyc-rental-price-prediction/
 │
 ├── README.md
-├── executive_summary.md
-├── presentation.pdf
+├── report.pdf
 │
-├── data/
-│   ├── raw/
-│   └── cleaned/
-│
-├── notebooks
-│
-├── figures/
-│   ├── rent_trend_by_borough.png
-│   ├── actual_vs_predicted_rent.png
-│   ├── model_comparison.png
-│   ├── confusion_matrix_logistic.png
-│   └── arima_forecast.png
-│
-└── requirements.txt
+└── notebooks
+
 ```
 
 ## Methods
