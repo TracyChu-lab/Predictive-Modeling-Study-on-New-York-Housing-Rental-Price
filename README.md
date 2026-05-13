@@ -28,8 +28,14 @@ nyc-rental-price-prediction/
 ├── README.md
 ├── report.pdf
 │
-└── notebook
-
+├── data/
+│   ├── raw/
+│   └── cleaned/
+│
+├── notebooks/
+    ├── 01_data_cleaning_eda.ipynb
+    ├── 02_modeling_regression_classification.ipynb
+    └── 03_time_series_forecasting.ipynb
 ```
 
 ## Methods
