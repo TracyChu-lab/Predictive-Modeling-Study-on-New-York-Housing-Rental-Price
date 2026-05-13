@@ -28,7 +28,7 @@ nyc-rental-price-prediction/
 ├── README.md
 ├── report.pdf
 │
-└── notebooks
+└── notebook
 
 ```
 
